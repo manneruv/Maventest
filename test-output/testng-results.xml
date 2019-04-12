@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="135" started-at="2019-04-11T18:57:51Z" finished-at="2019-04-11T18:57:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="135" started-at="2019-04-11T18:57:51Z" finished-at="2019-04-11T18:57:51Z">
+      <class name="logging.LoggerTest">
+        <test-method status="PASS" signature="getLogger()[pri:0, instance:logging.LoggerTest@754ba872]" name="getLogger" is-config="true" duration-ms="98" started-at="2019-04-11T18:57:51Z" finished-at="2019-04-11T18:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLogger -->
+        <test-method status="PASS" signature="testLoggeer()[pri:0, instance:logging.LoggerTest@754ba872]" name="testLoggeer" duration-ms="13" started-at="2019-04-11T18:57:51Z" finished-at="2019-04-11T18:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoggeer -->
+      </class> <!-- logging.LoggerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
